@@ -1,0 +1,6 @@
+The results for the first quarters
+
+For quarter 1 the result is  37.4
+For quarter 2 the result is  47.3
+For quarter 3 the result is  73.4
+For quarter 4 the result is  99.0
