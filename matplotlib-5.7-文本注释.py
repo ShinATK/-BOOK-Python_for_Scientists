@@ -1,4 +1,5 @@
 import numpy as np
+
 x=np.linspace(0, 2, 101)
 y=(x-1)**3+1
 
